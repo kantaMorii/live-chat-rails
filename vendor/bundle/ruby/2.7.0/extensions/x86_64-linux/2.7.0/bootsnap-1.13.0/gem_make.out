@@ -1,0 +1,15 @@
+current directory: /home/moridon/Documents/live-chat-rails/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.13.0/ext/bootsnap
+/home/moridon/.rbenv/versions/2.7.1/bin/ruby -I /home/moridon/.rbenv/versions/2.7.1/lib/ruby/2.7.0 -r ./siteconf20221009-5299-1d541c2.rb extconf.rb
+creating Makefile
+
+current directory: /home/moridon/Documents/live-chat-rails/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.13.0/ext/bootsnap
+make "DESTDIR=" clean
+
+current directory: /home/moridon/Documents/live-chat-rails/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.13.0/ext/bootsnap
+make "DESTDIR="
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.so
+
+current directory: /home/moridon/Documents/live-chat-rails/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.13.0/ext/bootsnap
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 bootsnap.so ./.gem.20221009-5299-aakuxk/bootsnap
